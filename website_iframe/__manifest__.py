@@ -23,7 +23,6 @@
                 'mail',
                 'website',
                 'website_sale',
-                'website_portal',
                 ],
     'data': [
         'security/ir.model.access.csv',
