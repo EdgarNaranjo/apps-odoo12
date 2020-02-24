@@ -22,7 +22,7 @@
                 'account',
                 'mail',
                 'website',
-                'website_portal_sale',
+                'website_sale',
                 'website_portal',
                 ],
     'data': [
