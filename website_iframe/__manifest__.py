@@ -6,7 +6,7 @@
         This module allows Clients to view external content through iframes by accessing their personal account of the 
         Odoo Virtual Office. This can be used to add content from sources such as external report servers.
     """,
-    'version': '10.0.0.0.1',
+    'version': '12.0.0.0.1',
     'category': 'Website',
     'license': 'LGPL-3',
     'author': "ToDOO",
