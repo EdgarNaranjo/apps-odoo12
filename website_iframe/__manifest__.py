@@ -1,10 +1,11 @@
 # -*- encoding: utf-8 -*-
 ##############################################################################
 #
-#    This module allows Clients to view external content through iframes by accessing their personal account of the 
-#    Odoo Virtual Office. This can be used to add content from sources such as external report servers.
+#    This module allows Clients to view external content through iframes by accessing 
+#    their personal account of the Odoo Virtual Office. This can be used to add content 
+#    from sources such as external report servers.
 #    Copyright (C) 2020- TODOOWEB.ES (https://www.todooweb.es)
-#    @author binhnguyenxuan (https://www.linkedin.com/in/binhnguyenxuan)
+#    @author ToDOO (https://www.linkedin.com/company/todooweb)
 #
 #    This program is distributed in the hope that it will be useful,
 #    but WITHOUT ANY WARRANTY; without even the implied warranty of
