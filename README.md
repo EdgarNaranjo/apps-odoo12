@@ -1,10 +1,9 @@
-# apps-odoo12
+# MODULES APPs ToDOO
 
-website_iframe_v12
-1 . Iframe for the virtual client office
+# Iframe for the virtual client office (versión 10.0.0.0.1)
 
-* Modulo para trabajar iframes en la Oficina Virtual de un cliente
-* Traducciones a español
+Modulo para trabajar iframes en la Oficina Virtual de un cliente
+
 
 Para más información dirigirse al portal: https://github.com/todooweb
 
