@@ -6,3 +6,4 @@ access_formation_job,access_formation_job,model_formation_job,base.group_user,1,
 access_collective_agreement,access_collective_agreement,model_collective_agreement,base.group_user,1,1,1,1
 access_tag_cnae_category,access_tag_cnae_category,model_tag_cnae_category,base.group_user,1,1,1,1
 access_tag_ine_category,access_tag_ine_category,model_tag_ine_category,base.group_user,1,1,1,1
+access_agreement_type,access_agreement_type,model_agreement_type,base.group_user,1,1,1,1
