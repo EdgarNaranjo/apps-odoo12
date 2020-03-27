@@ -28,7 +28,7 @@ Modify Design List View for all views tree. List Sticky Header.
    3. List Sticky Header
    4. Hover property of list
 
-# HR Contract Management (versión 12.0.0.0.1)
+# HR Contract Management (versión 12.1.0.1.1)
 
 Contract Management. Report contract. Review the status of a Contract. Generate contract from Sale Order/ Product (type=Service).
 
@@ -39,6 +39,11 @@ Contract Management. Report contract. Review the status of a Contract. Generate 
    3. Management Agreement
    4. Workflow of contract and sale order
    5. Management professional category, Educational level, Jobs
+
+* versión 12.1.0.1.1
+
+   1. Add Agreement type
+   2. Modified Collective Agreement
 
 # HR Employee Validation Data  european (SP) (versión 12.2.0.0.2)
 
