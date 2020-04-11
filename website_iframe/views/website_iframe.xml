@@ -49,8 +49,8 @@
             <filter string="Active" domain="[('active', '=', True)]" name="active"/>
             <separator/>
             <group  expand='0' string='Group by...'>
-              <filter string='Client' domain="[]" context="{'group_by': 'partner_id'}"/>
-              <filter string='Active' domain="[]" context="{'group_by': 'active'}"/>
+              <filter string='Client' name='partner' domain="[]" context="{'group_by': 'partner_id'}"/>
+              <filter string='Active' name='active' domain="[]" context="{'group_by': 'active'}"/>
             </group>
         </search>
       </field>

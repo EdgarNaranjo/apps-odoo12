@@ -6,7 +6,7 @@ from odoo.exceptions import UserError, AccessError, ValidationError, AccessDenie
 
 class PortalDashboard(models.Model):
     _name = 'portal.dashboard'
-    _inherit = ['mail.thread', 'ir.needaction_mixin']
+    _inherit = ['mail.thread']
     _rec_name = 'partner_id'
 
     partner_id = fields.Many2one('res.partner', string='Partner', track_visibility='onchange', required=True)
