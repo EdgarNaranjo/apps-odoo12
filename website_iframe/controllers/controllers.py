@@ -3,17 +3,16 @@
 from collections import OrderedDict
 
 from odoo import http, _
-from odoo.http import request
+from odoo.http import request, route
+from odoo.addons.portal.controllers.portal import CustomerPortal
 
-from odoo.addons.website_portal.controllers.main import website_account
 
-
-class website_account(website_account):
+class CustomWebsite(CustomerPortal):
 
     @http.route()
     def account(self, **kw):
         """ Add documents to main account page """
-        response = super(website_account, self).account(**kw)
+        response = super(CustomWebsite, self).account(**kw)
         partner = request.env.user.partner_id
         PortalDashboard = request.env['portal.dashboard']
         dashboard_count = PortalDashboard.search_count([

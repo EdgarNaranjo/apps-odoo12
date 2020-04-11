@@ -39,6 +39,7 @@
                 'mail',
                 'website',
                 'website_sale',
+                'website_crm_partner_assign'
                 ],
     'data': [
         'security/ir.model.access.csv',
