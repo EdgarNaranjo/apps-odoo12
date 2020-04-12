@@ -98,6 +98,7 @@ Integrated Calculator within the odoo framework. Allows for multiple calculation
    3. Operations with percent
    4. Working with real numbers
 
+
 Para más información dirigirse al portal: https://github.com/todooweb
 
 Para dudas funcionales o soporte, dirigirse a: https://github.com/EdgarNaranjo/apps_todoo.git
